@@ -1,0 +1,10 @@
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter9\Chapter9\bin\Debug\Chapter9.exe.config
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter9\Chapter9\bin\Debug\Chapter9.exe
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter9\Chapter9\bin\Debug\Chapter9.pdb
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter9\Chapter9\obj\Debug\Chapter9.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter9\Chapter9\obj\Debug\Chapter9.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter9\Chapter9\obj\Debug\Chapter9.Form1.resources
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter9\Chapter9\obj\Debug\Chapter9.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter9\Chapter9\obj\Debug\Chapter9.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter9\Chapter9\obj\Debug\Chapter9.exe
+C:\Users\MTCStudent\Desktop\C# Stuff\Chapter9\Chapter9\obj\Debug\Chapter9.pdb
